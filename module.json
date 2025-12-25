@@ -1,6 +1,9 @@
 {
-  "id": "cineby-tizen3",
-  "name": "Cineby (Tizen 3.0)",
+  "name": "Cineby",
+  "title": "Cineby (Tizen 3.0)",
+  "description": "Cineby streaming module for Tizen OS 3.0 TVs",
   "version": "1.0.0",
+  "author": "yossamaka13",
+  "type": "web",
   "entry": "index.html"
 }
